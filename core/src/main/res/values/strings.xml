@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_images">Movie Image</string>
+    <string name="releasedate">Release Date : %s</string>
+    <string name="score">666</string>
+    <string name="app_name">Movie</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="size_320">320dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="size_10">10dp</dimen>
+</resources>

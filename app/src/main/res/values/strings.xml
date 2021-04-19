@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Capstone Project</string>
+    <string name="title_movie">Movies</string>
+    <string name="title_tv_show">Tv Shows</string>
+    <string name="title_fav">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="movie">Movie</string>
+    <string name="by">By</string>
+    <string name="erik">Erik Satriawan</string>
+    <string name="something_wrong">Opss something went wrong</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="dummy_int">0</string>
+    <string name="dummy_reviews">Reviews</string>
+
+    <string name="tagline">Tagline</string>
+    <string name="release_date">Release Date</string>
+    <string name="homepage">Homepage</string>
+    <string name="description">Description</string>
+    <string name="runtime">Runtime</string>
+
+    <string name="add_favorite">Menambahkan ke favorite</string>
+    <string name="delete_favortie">Menghapus dari favorite</string>
+    <string name="title_profile">Profile</string>
+    <string name="origin">Yogyakarta, ID</string>
+    <string name="no_favorite">Anda Belum Mempunyai Film Favorit</string>
+    <string name="score">score</string>
+    <string name="title_favorite">favorite</string>
+</resources>
