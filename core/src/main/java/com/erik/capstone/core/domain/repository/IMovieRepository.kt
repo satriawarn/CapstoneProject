@@ -10,7 +10,7 @@ interface IMovieRepository {
 
     fun getFavoriteMovie(): Flow<List<MovieDetail>>
 
-    suspend fun searchMovie(query: String): Resource<List<Movie>>
+    suspend fun searchMovie(search: String): Resource<List<Movie>>
 
     suspend fun getMovieDetail(id: Int): Flow<Resource<MovieDetail>>
 
