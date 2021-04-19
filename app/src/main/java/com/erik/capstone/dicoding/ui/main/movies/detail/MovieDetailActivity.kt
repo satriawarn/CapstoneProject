@@ -10,6 +10,7 @@ import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.lifecycleScope
+import com.erik.capstone.core.BuildConfig.BASE_URL_POSTER_PATH_BIG
 import com.erik.capstone.core.data.Resource
 import com.erik.capstone.core.domain.model.MovieDetail
 import com.erik.capstone.core.utils.SnackBar
