@@ -25,4 +25,7 @@ dependencies {
 
     //RoundImage
     implementation 'de.hdodenhof:circleimageview:3.1.0'
+
+    implementation "androidx.multidex:multidex:$multidex_version"
+    debugImplementation "com.squareup.leakcanary:leakcanary-android:$leakcanary_version"
 }
